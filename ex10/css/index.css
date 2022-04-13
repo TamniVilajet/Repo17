@@ -1,0 +1,17 @@
+body {
+    background-image: url(../login-bg.jpg);
+    padding: 100px;
+    margin: 100px;
+}
+
+a, label {
+    color: aquamarine;
+}
+
+p {
+    color: silver;
+}
+
+h1 {
+    color: yellowgreen;
+}
